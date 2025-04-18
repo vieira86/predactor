@@ -20,7 +20,7 @@ function App() {
 
     try {
       console.log('Sending request with SMILES:', newSmiles);
-      const response = await fetch('http://localhost:8000/predict', {
+      const response = await fetch('https://predactor.onrender.com', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
