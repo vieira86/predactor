@@ -42,6 +42,11 @@ Builds the app for production to the `build` folder.
 
 ---
 
-## 📘 Learn More
+## 👥 Authors
 
-- [Create React App Documentation](https://facebook
+**Rafael Vieira**  
+Professor of Chemistry at the Federal Institute of Education, Science and Technology of Rondônia – Ji-Paraná – Brazil  
+[ORCID: https://orcid.org/0000-0001-9003-3209](https://orcid.org/0000-0001-9003-3209)
+
+**Vitor Hugo Batista**  
+Undergraduate student in Chemistry at the Federal Institute of Education, Science and Technology of Rondônia – Ji-Paraná – Brazil
